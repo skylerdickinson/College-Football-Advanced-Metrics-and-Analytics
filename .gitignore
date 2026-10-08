@@ -16,5 +16,4 @@ CFB_Bundle1/_backup_*/
 # Working notes (not part of the project)
 CFB_Bundle1/CHANGES_*.md
 
-# The repo uses the top-level README.md; leave the bundle-level one out
-CFB_Bundle1/README.md
+

@@ -1,0 +1,973 @@
+{
+  "fetched_at": "2026-10-07T23:08:41.796625Z",
+  "season_year": 2026,
+  "week_number": 6,
+  "teams": {
+    "Ohio State": {
+      "FPI": 28.805,
+      "Off_Eff": 88.51,
+      "Def_Eff": 86.98,
+      "SOS": 17.0,
+      "SOR": 11.0
+    },
+    "Georgia": {
+      "FPI": 28.172,
+      "Off_Eff": 90.611,
+      "Def_Eff": 83.686,
+      "SOS": 97.0,
+      "SOR": 8.0
+    },
+    "Notre Dame": {
+      "FPI": 27.754,
+      "Off_Eff": 85.635,
+      "Def_Eff": 93.177,
+      "SOS": 61.0,
+      "SOR": 3.0
+    },
+    "Texas": {
+      "FPI": 27.529,
+      "Off_Eff": 67.223,
+      "Def_Eff": 94.645,
+      "SOS": 2.0,
+      "SOR": 1.0
+    },
+    "Miami": {
+      "FPI": 27.511,
+      "Off_Eff": 90.023,
+      "Def_Eff": 84.319,
+      "SOS": 69.0,
+      "SOR": 4.0
+    },
+    "Alabama": {
+      "FPI": 26.961,
+      "Off_Eff": 90.42,
+      "Def_Eff": 88.821,
+      "SOS": 23.0,
+      "SOR": 2.0
+    },
+    "Indiana": {
+      "FPI": 25.497,
+      "Off_Eff": 87.169,
+      "Def_Eff": 82.764,
+      "SOS": 107.0,
+      "SOR": 10.0
+    },
+    "Louisiana State": {
+      "FPI": 21.917,
+      "Off_Eff": 66.024,
+      "Def_Eff": 94.642,
+      "SOS": 43.0,
+      "SOR": 25.0
+    },
+    "Oregon": {
+      "FPI": 21.578,
+      "Off_Eff": 74.902,
+      "Def_Eff": 77.145,
+      "SOS": 21.0,
+      "SOR": 23.0
+    },
+    "Tennessee": {
+      "FPI": 18.459,
+      "Off_Eff": 62.861,
+      "Def_Eff": 85.366,
+      "SOS": 34.0,
+      "SOR": 22.0
+    },
+    "Texas Tech": {
+      "FPI": 18.201,
+      "Off_Eff": 51.715,
+      "Def_Eff": 80.343,
+      "SOS": 87.0,
+      "SOR": 7.0
+    },
+    "Utah": {
+      "FPI": 18.114,
+      "Off_Eff": 81.753,
+      "Def_Eff": 81.075,
+      "SOS": 111.0,
+      "SOR": 18.0
+    },
+    "Nebraska": {
+      "FPI": 16.54,
+      "Off_Eff": 71.952,
+      "Def_Eff": 79.948,
+      "SOS": 126.0,
+      "SOR": 26.0
+    },
+    "Texas A&M": {
+      "FPI": 16.236,
+      "Off_Eff": 49.584,
+      "Def_Eff": 78.057,
+      "SOS": 38.0,
+      "SOR": 52.0
+    },
+    "Florida": {
+      "FPI": 15.163,
+      "Off_Eff": 84.833,
+      "Def_Eff": 54.859,
+      "SOS": 26.0,
+      "SOR": 15.0
+    },
+    "BYU": {
+      "FPI": 14.864,
+      "Off_Eff": 72.402,
+      "Def_Eff": 79.717,
+      "SOS": 93.0,
+      "SOR": 14.0
+    },
+    "Northwestern": {
+      "FPI": 14.83,
+      "Off_Eff": 84.259,
+      "Def_Eff": 72.663,
+      "SOS": 13.0,
+      "SOR": 19.0
+    },
+    "Missouri": {
+      "FPI": 14.516,
+      "Off_Eff": 59.702,
+      "Def_Eff": 78.92,
+      "SOS": 44.0,
+      "SOR": 24.0
+    },
+    "USC": {
+      "FPI": 14.216,
+      "Off_Eff": 81.899,
+      "Def_Eff": 44.136,
+      "SOS": 66.0,
+      "SOR": 27.0
+    },
+    "Penn State": {
+      "FPI": 13.735,
+      "Off_Eff": 56.609,
+      "Def_Eff": 82.469,
+      "SOS": 60.0,
+      "SOR": 66.0
+    },
+    "Oklahoma": {
+      "FPI": 13.489,
+      "Off_Eff": 39.341,
+      "Def_Eff": 89.649,
+      "SOS": 3.0,
+      "SOR": 42.0
+    },
+    "Mississippi": {
+      "FPI": 13.152,
+      "Off_Eff": 78.063,
+      "Def_Eff": 55.452,
+      "SOS": 6.0,
+      "SOR": 13.0
+    },
+    "Pittsburgh": {
+      "FPI": 13.084,
+      "Off_Eff": 63.182,
+      "Def_Eff": 73.484,
+      "SOS": 100.0,
+      "SOR": 9.0
+    },
+    "Auburn": {
+      "FPI": 12.308,
+      "Off_Eff": 53.227,
+      "Def_Eff": 79.335,
+      "SOS": 18.0,
+      "SOR": 38.0
+    },
+    "Houston": {
+      "FPI": 12.208,
+      "Off_Eff": 78.379,
+      "Def_Eff": 57.67,
+      "SOS": 54.0,
+      "SOR": 29.0
+    },
+    "Mississippi State": {
+      "FPI": 11.911,
+      "Off_Eff": 78.634,
+      "Def_Eff": 68.404,
+      "SOS": 11.0,
+      "SOR": 6.0
+    },
+    "Iowa": {
+      "FPI": 11.885,
+      "Off_Eff": 54.588,
+      "Def_Eff": 84.932,
+      "SOS": 25.0,
+      "SOR": 16.0
+    },
+    "Boise State": {
+      "FPI": 11.66,
+      "Off_Eff": 74.76,
+      "Def_Eff": 62.721,
+      "SOS": 49.0,
+      "SOR": 30.0
+    },
+    "Baylor": {
+      "FPI": 11.193,
+      "Off_Eff": 58.065,
+      "Def_Eff": 73.675,
+      "SOS": 84.0,
+      "SOR": 37.0
+    },
+    "Florida State": {
+      "FPI": 11.179,
+      "Off_Eff": 77.576,
+      "Def_Eff": 48.566,
+      "SOS": 31.0,
+      "SOR": 48.0
+    },
+    "Wake Forest": {
+      "FPI": 11.075,
+      "Off_Eff": 72.714,
+      "Def_Eff": 65.526,
+      "SOS": 29.0,
+      "SOR": 17.0
+    },
+    "Michigan": {
+      "FPI": 10.592,
+      "Off_Eff": 52.721,
+      "Def_Eff": 75.39,
+      "SOS": 64.0,
+      "SOR": 54.0
+    },
+    "Wisconsin": {
+      "FPI": 10.408,
+      "Off_Eff": 57.691,
+      "Def_Eff": 77.818,
+      "SOS": 19.0,
+      "SOR": 12.0
+    },
+    "Kentucky": {
+      "FPI": 10.385,
+      "Off_Eff": 70.21,
+      "Def_Eff": 76.037,
+      "SOS": 8.0,
+      "SOR": 5.0
+    },
+    "UCLA": {
+      "FPI": 10.259,
+      "Off_Eff": 72.78,
+      "Def_Eff": 73.554,
+      "SOS": 113.0,
+      "SOR": 20.0
+    },
+    "Louisville": {
+      "FPI": 9.827,
+      "Off_Eff": 76.658,
+      "Def_Eff": 56.37,
+      "SOS": 48.0,
+      "SOR": 82.0
+    },
+    "Duke": {
+      "FPI": 9.564,
+      "Off_Eff": 57.089,
+      "Def_Eff": 79.537,
+      "SOS": 114.0,
+      "SOR": 21.0
+    },
+    "South Carolina": {
+      "FPI": 9.257,
+      "Off_Eff": 59.314,
+      "Def_Eff": 53.123,
+      "SOS": 20.0,
+      "SOR": 96.0
+    },
+    "New Mexico": {
+      "FPI": 9.173,
+      "Off_Eff": 56.053,
+      "Def_Eff": 87.559,
+      "SOS": 104.0,
+      "SOR": 51.0
+    },
+    "SMU": {
+      "FPI": 8.989,
+      "Off_Eff": 66.818,
+      "Def_Eff": 67.121,
+      "SOS": 63.0,
+      "SOR": 31.0
+    },
+    "Kansas State": {
+      "FPI": 8.791,
+      "Off_Eff": 68.971,
+      "Def_Eff": 68.305,
+      "SOS": 117.0,
+      "SOR": 59.0
+    },
+    "Arizona": {
+      "FPI": 8.637,
+      "Off_Eff": 62.752,
+      "Def_Eff": 64.109,
+      "SOS": 74.0,
+      "SOR": 40.0
+    },
+    "Virginia Tech": {
+      "FPI": 8.228,
+      "Off_Eff": 63.667,
+      "Def_Eff": 62.425,
+      "SOS": 109.0,
+      "SOR": 43.0
+    },
+    "Virginia": {
+      "FPI": 7.206,
+      "Off_Eff": 48.968,
+      "Def_Eff": 76.219,
+      "SOS": 82.0,
+      "SOR": 74.0
+    },
+    "Oklahoma State": {
+      "FPI": 6.783,
+      "Off_Eff": 60.842,
+      "Def_Eff": 76.816,
+      "SOS": 51.0,
+      "SOR": 35.0
+    },
+    "UCF": {
+      "FPI": 6.753,
+      "Off_Eff": 48.276,
+      "Def_Eff": 80.359,
+      "SOS": 39.0,
+      "SOR": 46.0
+    },
+    "North Carolina": {
+      "FPI": 6.702,
+      "Off_Eff": 65.448,
+      "Def_Eff": 64.454,
+      "SOS": 16.0,
+      "SOR": 47.0
+    },
+    "TCU": {
+      "FPI": 6.482,
+      "Off_Eff": 39.01,
+      "Def_Eff": 76.277,
+      "SOS": 58.0,
+      "SOR": 92.0
+    },
+    "James Madison": {
+      "FPI": 6.411,
+      "Off_Eff": 66.641,
+      "Def_Eff": 58.388,
+      "SOS": 132.0,
+      "SOR": 28.0
+    },
+    "Clemson": {
+      "FPI": 6.323,
+      "Off_Eff": 30.637,
+      "Def_Eff": 72.989,
+      "SOS": 5.0,
+      "SOR": 32.0
+    },
+    "Kansas": {
+      "FPI": 5.21,
+      "Off_Eff": 46.75,
+      "Def_Eff": 76.215,
+      "SOS": 103.0,
+      "SOR": 102.0
+    },
+    "Washington": {
+      "FPI": 5.019,
+      "Off_Eff": 39.733,
+      "Def_Eff": 65.368,
+      "SOS": 79.0,
+      "SOR": 80.0
+    },
+    "Vanderbilt": {
+      "FPI": 4.822,
+      "Off_Eff": 52.795,
+      "Def_Eff": 57.426,
+      "SOS": 15.0,
+      "SOR": 44.0
+    },
+    "Illinois": {
+      "FPI": 4.643,
+      "Off_Eff": 77.406,
+      "Def_Eff": 38.503,
+      "SOS": 32.0,
+      "SOR": 101.0
+    },
+    "Iowa State": {
+      "FPI": 4.39,
+      "Off_Eff": 58.623,
+      "Def_Eff": 64.45,
+      "SOS": 55.0,
+      "SOR": 63.0
+    },
+    "Cincinnati": {
+      "FPI": 3.642,
+      "Off_Eff": 59.175,
+      "Def_Eff": 51.072,
+      "SOS": 91.0,
+      "SOR": 39.0
+    },
+    "Memphis": {
+      "FPI": 3.634,
+      "Off_Eff": 81.194,
+      "Def_Eff": 43.001,
+      "SOS": 88.0,
+      "SOR": 41.0
+    },
+    "North Carolina State": {
+      "FPI": 3.342,
+      "Off_Eff": 66.296,
+      "Def_Eff": 56.668,
+      "SOS": 67.0,
+      "SOR": 58.0
+    },
+    "Minnesota": {
+      "FPI": 2.975,
+      "Off_Eff": 37.797,
+      "Def_Eff": 72.259,
+      "SOS": 68.0,
+      "SOR": 33.0
+    },
+    "Oregon State": {
+      "FPI": 2.442,
+      "Off_Eff": 79.178,
+      "Def_Eff": 63.476,
+      "SOS": 50.0,
+      "SOR": 60.0
+    },
+    "West Virginia": {
+      "FPI": 1.428,
+      "Off_Eff": 71.92,
+      "Def_Eff": 37.314,
+      "SOS": 90.0,
+      "SOR": 71.0
+    },
+    "Michigan State": {
+      "FPI": 1.408,
+      "Off_Eff": 41.351,
+      "Def_Eff": 57.359,
+      "SOS": 7.0,
+      "SOR": 70.0
+    },
+    "Fresno State": {
+      "FPI": 1.361,
+      "Off_Eff": 39.923,
+      "Def_Eff": 65.951,
+      "SOS": 106.0,
+      "SOR": 45.0
+    },
+    "North Dakota State": {
+      "FPI": 0.888,
+      "Off_Eff": 39.115,
+      "Def_Eff": 79.868,
+      "SOS": 137.0,
+      "SOR": 36.0
+    },
+    "Arkansas": {
+      "FPI": 0.763,
+      "Off_Eff": 39.428,
+      "Def_Eff": 53.712,
+      "SOS": 1.0,
+      "SOR": 67.0
+    },
+    "Syracuse": {
+      "FPI": 0.245,
+      "Off_Eff": 52.939,
+      "Def_Eff": 58.526,
+      "SOS": 76.0,
+      "SOR": 90.0
+    },
+    "North Texas": {
+      "FPI": 0.087,
+      "Off_Eff": 76.456,
+      "Def_Eff": 47.734,
+      "SOS": 42.0,
+      "SOR": 61.0
+    },
+    "Toledo": {
+      "FPI": -0.164,
+      "Off_Eff": 59.345,
+      "Def_Eff": 55.57,
+      "SOS": 128.0,
+      "SOR": 62.0
+    },
+    "Arizona State": {
+      "FPI": -0.305,
+      "Off_Eff": 43.679,
+      "Def_Eff": 68.628,
+      "SOS": 30.0,
+      "SOR": 53.0
+    },
+    "Purdue": {
+      "FPI": -0.392,
+      "Off_Eff": 64.792,
+      "Def_Eff": 35.041,
+      "SOS": 9.0,
+      "SOR": 64.0
+    },
+    "Georgia Tech": {
+      "FPI": -0.472,
+      "Off_Eff": 49.808,
+      "Def_Eff": 45.287,
+      "SOS": 70.0,
+      "SOR": 113.0
+    },
+    "Colorado": {
+      "FPI": -0.496,
+      "Off_Eff": 38.295,
+      "Def_Eff": 73.036,
+      "SOS": 12.0,
+      "SOR": 65.0
+    },
+    "Liberty": {
+      "FPI": -1.1,
+      "Off_Eff": 39.894,
+      "Def_Eff": 65.749,
+      "SOS": 121.0,
+      "SOR": 55.0
+    },
+    "UNLV": {
+      "FPI": -1.33,
+      "Off_Eff": 33.294,
+      "Def_Eff": 67.252,
+      "SOS": 115.0,
+      "SOR": 83.0
+    },
+    "UTSA": {
+      "FPI": -1.625,
+      "Off_Eff": 45.326,
+      "Def_Eff": 62.922,
+      "SOS": 47.0,
+      "SOR": 34.0
+    },
+    "Texas State": {
+      "FPI": -2.413,
+      "Off_Eff": 68.013,
+      "Def_Eff": 48.927,
+      "SOS": 41.0,
+      "SOR": 95.0
+    },
+    "South Florida": {
+      "FPI": -2.492,
+      "Off_Eff": 43.844,
+      "Def_Eff": 50.768,
+      "SOS": 133.0,
+      "SOR": 69.0
+    },
+    "Maryland": {
+      "FPI": -2.545,
+      "Off_Eff": 33.464,
+      "Def_Eff": 64.541,
+      "SOS": 45.0,
+      "SOR": 88.0
+    },
+    "Tulane": {
+      "FPI": -2.759,
+      "Off_Eff": 32.153,
+      "Def_Eff": 52.511,
+      "SOS": 53.0,
+      "SOR": 77.0
+    },
+    "Army": {
+      "FPI": -2.782,
+      "Off_Eff": 72.966,
+      "Def_Eff": 22.861,
+      "SOS": 124.0,
+      "SOR": 98.0
+    },
+    "Georgia State": {
+      "FPI": -3.19,
+      "Off_Eff": 64.96,
+      "Def_Eff": 49.031,
+      "SOS": 120.0,
+      "SOR": 56.0
+    },
+    "California": {
+      "FPI": -3.509,
+      "Off_Eff": 41.225,
+      "Def_Eff": 51.252,
+      "SOS": 83.0,
+      "SOR": 94.0
+    },
+    "W Michigan": {
+      "FPI": -4.21,
+      "Off_Eff": 39.667,
+      "Def_Eff": 51.966,
+      "SOS": 80.0,
+      "SOR": 78.0
+    },
+    "Louisiana": {
+      "FPI": -4.239,
+      "Off_Eff": 37.016,
+      "Def_Eff": 73.994,
+      "SOS": 96.0,
+      "SOR": 49.0
+    },
+    "Tulsa": {
+      "FPI": -4.318,
+      "Off_Eff": 43.726,
+      "Def_Eff": 62.268,
+      "SOS": 112.0,
+      "SOR": 81.0
+    },
+    "East Carolina": {
+      "FPI": -4.409,
+      "Off_Eff": 19.628,
+      "Def_Eff": 71.557,
+      "SOS": 35.0,
+      "SOR": 89.0
+    },
+    "Temple": {
+      "FPI": -4.66,
+      "Off_Eff": 57.335,
+      "Def_Eff": 44.854,
+      "SOS": 85.0,
+      "SOR": 100.0
+    },
+    "Boston College": {
+      "FPI": -5.022,
+      "Off_Eff": 23.389,
+      "Def_Eff": 63.168,
+      "SOS": 62.0,
+      "SOR": 93.0
+    },
+    "Rutgers": {
+      "FPI": -5.065,
+      "Off_Eff": 43.333,
+      "Def_Eff": 37.058,
+      "SOS": 46.0,
+      "SOR": 129.0
+    },
+    "Louisiana Tech": {
+      "FPI": -5.287,
+      "Off_Eff": 49.555,
+      "Def_Eff": 69.597,
+      "SOS": 14.0,
+      "SOR": 68.0
+    },
+    "Air Force": {
+      "FPI": -5.479,
+      "Off_Eff": 41.446,
+      "Def_Eff": 47.598,
+      "SOS": 134.0,
+      "SOR": 73.0
+    },
+    "San Diego State": {
+      "FPI": -5.492,
+      "Off_Eff": 19.907,
+      "Def_Eff": 63.495,
+      "SOS": 71.0,
+      "SOR": 97.0
+    },
+    "Troy": {
+      "FPI": -5.77,
+      "Off_Eff": 46.134,
+      "Def_Eff": 43.32,
+      "SOS": 89.0,
+      "SOR": 85.0
+    },
+    "Appalachian State": {
+      "FPI": -6.473,
+      "Off_Eff": 58.688,
+      "Def_Eff": 47.597,
+      "SOS": 118.0,
+      "SOR": 57.0
+    },
+    "Georgia So": {
+      "FPI": -6.575,
+      "Off_Eff": 51.649,
+      "Def_Eff": 56.235,
+      "SOS": 94.0,
+      "SOR": 103.0
+    },
+    "Utah State": {
+      "FPI": -6.614,
+      "Off_Eff": 23.332,
+      "Def_Eff": 58.959,
+      "SOS": 24.0,
+      "SOR": 112.0
+    },
+    "Navy": {
+      "FPI": -7.544,
+      "Off_Eff": 34.434,
+      "Def_Eff": 38.865,
+      "SOS": 130.0,
+      "SOR": 127.0
+    },
+    "UConn": {
+      "FPI": -7.568,
+      "Off_Eff": 50.392,
+      "Def_Eff": 39.004,
+      "SOS": 129.0,
+      "SOR": 114.0
+    },
+    "Florida Atlantic": {
+      "FPI": -7.654,
+      "Off_Eff": 49.817,
+      "Def_Eff": 38.247,
+      "SOS": 98.0,
+      "SOR": 50.0
+    },
+    "South Alabama": {
+      "FPI": -8.765,
+      "Off_Eff": 51.85,
+      "Def_Eff": 26.946,
+      "SOS": 108.0,
+      "SOR": 87.0
+    },
+    "Arkansas State": {
+      "FPI": -8.815,
+      "Off_Eff": 46.635,
+      "Def_Eff": 41.313,
+      "SOS": 102.0,
+      "SOR": 104.0
+    },
+    "Washington State": {
+      "FPI": -9.103,
+      "Off_Eff": 20.132,
+      "Def_Eff": 60.466,
+      "SOS": 59.0,
+      "SOR": 124.0
+    },
+    "Jacksonville State": {
+      "FPI": -9.148,
+      "Off_Eff": 51.393,
+      "Def_Eff": 37.613,
+      "SOS": 127.0,
+      "SOR": 99.0
+    },
+    "Nevada": {
+      "FPI": -9.786,
+      "Off_Eff": 31.824,
+      "Def_Eff": 40.214,
+      "SOS": 136.0,
+      "SOR": 128.0
+    },
+    "Kennesaw State": {
+      "FPI": -10.103,
+      "Off_Eff": 33.092,
+      "Def_Eff": 48.255,
+      "SOS": 57.0,
+      "SOR": 116.0
+    },
+    "Miami (OH)": {
+      "FPI": -10.235,
+      "Off_Eff": 56.764,
+      "Def_Eff": 24.17,
+      "SOS": 73.0,
+      "SOR": 111.0
+    },
+    "Colorado State": {
+      "FPI": -10.335,
+      "Off_Eff": 69.304,
+      "Def_Eff": 17.207,
+      "SOS": 99.0,
+      "SOR": 107.0
+    },
+    "Stanford": {
+      "FPI": -10.588,
+      "Off_Eff": 34.777,
+      "Def_Eff": 35.696,
+      "SOS": 10.0,
+      "SOR": 72.0
+    },
+    "Ohio": {
+      "FPI": -11.053,
+      "Off_Eff": 39.659,
+      "Def_Eff": 30.114,
+      "SOS": 77.0,
+      "SOR": 86.0
+    },
+    "Sam Houston State": {
+      "FPI": -11.373,
+      "Off_Eff": 41.127,
+      "Def_Eff": 61.358,
+      "SOS": 52.0,
+      "SOR": 121.0
+    },
+    "New Mexico State": {
+      "FPI": -11.564,
+      "Off_Eff": 32.857,
+      "Def_Eff": 53.199,
+      "SOS": 78.0,
+      "SOR": 109.0
+    },
+    "Florida Intl": {
+      "FPI": -11.605,
+      "Off_Eff": 19.32,
+      "Def_Eff": 68.69,
+      "SOS": 131.0,
+      "SOR": 106.0
+    },
+    "San Jose State": {
+      "FPI": -11.615,
+      "Off_Eff": 23.136,
+      "Def_Eff": 54.048,
+      "SOS": 81.0,
+      "SOR": 79.0
+    },
+    "Hawai'i": {
+      "FPI": -11.933,
+      "Off_Eff": 26.523,
+      "Def_Eff": 31.263,
+      "SOS": 135.0,
+      "SOR": 134.0
+    },
+    "Missouri State": {
+      "FPI": -12.387,
+      "Off_Eff": 30.23,
+      "Def_Eff": 42.926,
+      "SOS": 36.0,
+      "SOR": 117.0
+    },
+    "Delaware": {
+      "FPI": -12.401,
+      "Off_Eff": 29.633,
+      "Def_Eff": 43.337,
+      "SOS": 95.0,
+      "SOR": 105.0
+    },
+    "Rice": {
+      "FPI": -12.919,
+      "Off_Eff": 33.811,
+      "Def_Eff": 39.038,
+      "SOS": 33.0,
+      "SOR": 125.0
+    },
+    "Central Michigan": {
+      "FPI": -13.027,
+      "Off_Eff": 20.098,
+      "Def_Eff": 46.4,
+      "SOS": 27.0,
+      "SOR": 75.0
+    },
+    "UMass": {
+      "FPI": -13.134,
+      "Off_Eff": 33.236,
+      "Def_Eff": 45.834,
+      "SOS": 138.0,
+      "SOR": 84.0
+    },
+    "Coastal Carolina": {
+      "FPI": -13.51,
+      "Off_Eff": 27.381,
+      "Def_Eff": 38.436,
+      "SOS": 122.0,
+      "SOR": 133.0
+    },
+    "Old Dominion": {
+      "FPI": -13.552,
+      "Off_Eff": 7.525,
+      "Def_Eff": 58.416,
+      "SOS": 92.0,
+      "SOR": 130.0
+    },
+    "Southern Mississippi": {
+      "FPI": -13.555,
+      "Off_Eff": 32.165,
+      "Def_Eff": 33.674,
+      "SOS": 86.0,
+      "SOR": 132.0
+    },
+    "UAB": {
+      "FPI": -13.871,
+      "Off_Eff": 21.088,
+      "Def_Eff": 47.462,
+      "SOS": 119.0,
+      "SOR": 91.0
+    },
+    "Eastern Michigan": {
+      "FPI": -14.709,
+      "Off_Eff": 30.174,
+      "Def_Eff": 43.792,
+      "SOS": 110.0,
+      "SOR": 110.0
+    },
+    "Marshall": {
+      "FPI": -15.092,
+      "Off_Eff": 33.009,
+      "Def_Eff": 21.645,
+      "SOS": 65.0,
+      "SOR": 76.0
+    },
+    "Western Kentucky": {
+      "FPI": -15.318,
+      "Off_Eff": 25.587,
+      "Def_Eff": 31.013,
+      "SOS": 4.0,
+      "SOR": 123.0
+    },
+    "Buffalo": {
+      "FPI": -17.148,
+      "Off_Eff": 18.233,
+      "Def_Eff": 25.36,
+      "SOS": 101.0,
+      "SOR": 120.0
+    },
+    "N Illinois": {
+      "FPI": -17.259,
+      "Off_Eff": 21.454,
+      "Def_Eff": 45.712,
+      "SOS": 37.0,
+      "SOR": 136.0
+    },
+    "Wyoming": {
+      "FPI": -17.462,
+      "Off_Eff": 14.455,
+      "Def_Eff": 34.885,
+      "SOS": 125.0,
+      "SOR": 118.0
+    },
+    "Bowling Green": {
+      "FPI": -18.886,
+      "Off_Eff": 11.316,
+      "Def_Eff": 44.999,
+      "SOS": 56.0,
+      "SOR": 122.0
+    },
+    "Middle Tenn": {
+      "FPI": -19.364,
+      "Off_Eff": 22.272,
+      "Def_Eff": 35.839,
+      "SOS": 116.0,
+      "SOR": 115.0
+    },
+    "Kent State": {
+      "FPI": -20.507,
+      "Off_Eff": 14.601,
+      "Def_Eff": 50.868,
+      "SOS": 28.0,
+      "SOR": 108.0
+    },
+    "Akron": {
+      "FPI": -21.253,
+      "Off_Eff": 26.506,
+      "Def_Eff": 22.036,
+      "SOS": 75.0,
+      "SOR": 131.0
+    },
+    "Ball State": {
+      "FPI": -21.755,
+      "Off_Eff": 29.983,
+      "Def_Eff": 25.593,
+      "SOS": 40.0,
+      "SOR": 126.0
+    },
+    "Charlotte": {
+      "FPI": -23.562,
+      "Off_Eff": 10.47,
+      "Def_Eff": 28.847,
+      "SOS": 72.0,
+      "SOR": 136.0
+    },
+    "UTEP": {
+      "FPI": -23.756,
+      "Off_Eff": 15.302,
+      "Def_Eff": 30.508,
+      "SOS": 22.0,
+      "SOR": 119.0
+    },
+    "UL Monroe": {
+      "FPI": -24.985,
+      "Off_Eff": 28.804,
+      "Def_Eff": 16.165,
+      "SOS": 105.0,
+      "SOR": 136.0
+    },
+    "Sacramento State": {
+      "FPI": -26.909,
+      "Off_Eff": 7.758,
+      "Def_Eff": 23.288,
+      "SOS": 123.0,
+      "SOR": 135.0
+    }
+  }
+}

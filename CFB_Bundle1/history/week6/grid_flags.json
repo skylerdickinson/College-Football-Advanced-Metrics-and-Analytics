@@ -1,0 +1,285 @@
+{
+ "games": {
+  "JACKSONVILLE ST@KENNESAW STATE": {
+   "away": {
+    "light": [
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "SAM HOUSTON STATE@LIBERTY": {
+   "home": {
+    "light": [
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "S ALABAMA@ARKANSAS STATE": {
+   "away": {
+    "light": [
+     "Havoc Rate Delta"
+    ]
+   }
+  },
+  "IOWA@WASHINGTON": {
+   "away": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ]
+   }
+  },
+  "IOWA STATE@BYU": {
+   "home": {
+    "light": [
+     "Line Yards Delta"
+    ]
+   }
+  },
+  "INDIANA@NEBRASKA": {
+   "away": {
+    "light": [
+     "Line Yards Delta"
+    ]
+   }
+  },
+  "TULANE@ARMY": {
+   "home": {
+    "light": [
+     "Havoc Rate Delta",
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "BALL STATE@NORTHWESTERN": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ],
+    "light": [
+     "Havoc Rate Delta",
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "OLD DOMINION@APPALACHIAN STATE": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Passing Down Panic Delta"
+    ],
+    "light": [
+     "Net Success Rate Delta",
+     "Havoc Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "TEXAS@OKLAHOMA": {
+   "away": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ]
+   }
+  },
+  "STANFORD@NOTRE DAME": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ],
+    "light": [
+     "Line Yards Delta",
+     "Havoc Rate Delta",
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "DUKE@GEORGIA TECH": {
+   "away": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ],
+    "light": [
+     "Havoc Rate Delta"
+    ]
+   }
+  },
+  "VIRGINIA TECH@CALIFORNIA": {
+   "away": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ],
+    "light": [
+     "Net Success Rate Delta",
+     "Line Yards Delta",
+     "Havoc Rate Delta",
+     "Passing Down Panic Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "ILLINOIS@MICHIGAN STATE": {
+   "away": {
+    "green": [
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "CHARLOTTE@NORTH TEXAS": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Net Success Rate Delta",
+     "Passing Down Panic Delta",
+     "OSR vs. DSR Delta"
+    ],
+    "light": [
+     "Line Yards Delta",
+     "Havoc Rate Delta"
+    ]
+   }
+  },
+  "EASTERN MICHIGAN@AKRON": {
+   "away": {
+    "light": [
+     "Havoc Rate Delta"
+    ]
+   }
+  },
+  "BUFFALO@TOLEDO": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ],
+    "light": [
+     "Net Success Rate Delta",
+     "Passing Down Panic Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "MARYLAND@OHIO STATE": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ],
+    "light": [
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "TENNESSEE@ARKANSAS": {
+   "away": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ],
+    "light": [
+     "Net Success Rate Delta",
+     "Havoc Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "SAN DIEGO STATE@OREGON STATE": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Passing Down Panic Delta"
+    ],
+    "light": [
+     "Net Success Rate Delta",
+     "Havoc Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "UAB@MEMPHIS": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ],
+    "light": [
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "NEVADA@UTEP": {
+   "away": {
+    "green": [
+     "Net Success Rate Delta",
+     "Passing Down Panic Delta",
+     "OSR vs. DSR Delta"
+    ],
+    "light": [
+     "Havoc Rate Delta"
+    ]
+   }
+  },
+  "NORTH DAKOTA STATE@UNLV": {
+   "away": {
+    "light": [
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "AIR FORCE@N ILLINOIS": {
+   "away": {
+    "light": [
+     "Net Success Rate Delta",
+     "Havoc Rate Delta",
+     "OSR vs. DSR Delta"
+    ],
+    "green": [
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "JAMES MADISON@GEORGIA SO": {
+   "away": {
+    "light": [
+     "Passing Down Panic Delta"
+    ]
+   }
+  },
+  "MINNESOTA@PURDUE": {
+   "away": {
+    "light": [
+     "Havoc Rate Delta"
+    ]
+   }
+  },
+  "HAWAI'I@ARIZONA STATE": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta"
+    ]
+   }
+  },
+  "KANSAS@UTAH": {
+   "home": {
+    "green": [
+     "Offensive Efficiency Delta",
+     "Net Success Rate Delta",
+     "OSR vs. DSR Delta"
+    ]
+   }
+  },
+  "BOISE ST@FRESNO STATE": {
+   "away": {
+    "light": [
+     "Line Yards Delta",
+     "Havoc Rate Delta",
+     "Passing Down Panic Delta"
+    ]
+   }
+  }
+ }
+}

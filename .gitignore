@@ -1,0 +1,20 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
+
+# Local backups and scratch copies
+CFB_Bundle1/_backup_*/
+*.bak
+*.bak_*
+*.pre_*
+
+# Working notes (not part of the project)
+CFB_Bundle1/CHANGES_*.md
+
+# The repo uses the top-level README.md; leave the bundle-level one out
+CFB_Bundle1/README.md

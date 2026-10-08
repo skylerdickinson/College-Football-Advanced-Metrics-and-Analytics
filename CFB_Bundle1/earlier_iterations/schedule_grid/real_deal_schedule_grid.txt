@@ -1,0 +1,4 @@
+Football2.py works and is beautiful,
+ the only problem is the bot made me copy and paste the schedule to get it to load ( cfb_list.py), 
+need to have the script fixed to pull the games off of cfb_weekly_schedule.csv, 
+and it prints out in the generated folder under cfb_matrices_outlook.pdf

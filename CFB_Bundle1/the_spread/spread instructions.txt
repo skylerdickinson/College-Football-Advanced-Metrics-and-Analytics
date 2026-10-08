@@ -1,0 +1,1 @@
+to run spread.py you have to drop the matrices in the folder you want it to read

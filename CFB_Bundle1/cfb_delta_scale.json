@@ -1,0 +1,115 @@
+{
+ "source": "cfb_delta_study.py -- pre-game deltas graded against final scores",
+ "n_graded": 139,
+ "updated": "2026-10-07T23:10:52.903700+00:00",
+ "deltas": {
+  "2nd Level Yards Delta": {
+   "large": 65.0,
+   "n_large": 20,
+   "massive": 61.1,
+   "n_massive": 18
+  },
+  "FEI Gap": {
+   "large": 100.0,
+   "n_large": 20,
+   "massive": 100.0,
+   "n_massive": 16
+  },
+  "Havoc Rate Delta": {
+   "large": 78.9,
+   "n_large": 19,
+   "massive": 86.7,
+   "n_massive": 15
+  },
+  "Line Yards Delta": {
+   "large": 70.0,
+   "n_large": 20,
+   "massive": 76.5,
+   "n_massive": 17
+  },
+  "Net Success Rate Delta": {
+   "large": 72.7,
+   "n_large": 22,
+   "massive": 82.4,
+   "n_massive": 17
+  },
+  "OSR vs. DSR Delta": {
+   "large": 71.4,
+   "n_large": 14,
+   "massive": 81.8,
+   "n_massive": 11
+  },
+  "Off PPG Gap": {
+   "large": 100.0,
+   "n_large": 20,
+   "massive": 87.5,
+   "n_massive": 16
+  },
+  "Offensive Efficiency Delta": {
+   "large": 82.4,
+   "n_large": 17,
+   "massive": 100.0,
+   "n_massive": 11
+  },
+  "Open Field Yards Delta": {
+   "large": 66.7,
+   "n_large": 18,
+   "massive": 66.7,
+   "n_massive": 18
+  },
+  "Passing Down Panic Delta": {
+   "large": 89.5,
+   "n_large": 19,
+   "massive": 94.1,
+   "n_massive": 17
+  },
+  "Passing Explosiveness Delta": {
+   "large": 76.2,
+   "n_large": 21,
+   "massive": 64.7,
+   "n_massive": 17
+  },
+  "Power Success Rate Delta": {
+   "large": 52.6,
+   "n_large": 19,
+   "massive": 75.0,
+   "n_massive": 16
+  },
+  "Rushing Reality Delta": {
+   "large": 57.1,
+   "n_large": 21,
+   "massive": 54.5,
+   "n_massive": 11
+  },
+  "SOR Gap": {
+   "large": null,
+   "n_large": 0,
+   "massive": null,
+   "n_massive": 0
+  },
+  "Sacks Delta": {
+   "large": 84.2,
+   "n_large": 19,
+   "massive": 80.0,
+   "n_massive": 10
+  },
+  "Stuff Rate Delta": {
+   "large": 76.2,
+   "n_large": 21,
+   "massive": 68.8,
+   "n_massive": 16
+  },
+  "TFL Delta": {
+   "large": 63.6,
+   "n_large": 11,
+   "massive": 81.8,
+   "n_massive": 11
+  },
+  "Total Pass Matchup Delta": {
+   "large": 70.0,
+   "n_large": 20,
+   "massive": 70.6,
+   "n_massive": 17
+  }
+ }
+}

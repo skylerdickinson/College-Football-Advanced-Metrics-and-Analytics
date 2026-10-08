@@ -1,0 +1,1 @@
+The cfb_schedule_pull.py actually works and pulls all cfb games from Monday-sunday the week it is run. It sends data to cfb_weekly_schedule.csv

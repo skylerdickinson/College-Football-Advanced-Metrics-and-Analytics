@@ -1,0 +1,1 @@
+This file pulls the fpi, sos and the offensive and defensive efficiciences, first run espn_cahe_creator.py to get the cache, then run espn_cfb.py that will pull the data and give yo a csv------ cfb_espn_metrics.csv

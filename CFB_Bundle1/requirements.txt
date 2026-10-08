@@ -1,0 +1,8 @@
+beautifulsoup4
+curl_cffi
+pypdf
+reportlab
+numpy
+pandas
+requests
+pdfplumber

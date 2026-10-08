@@ -1,0 +1,1444 @@
+{
+  "games": {
+    "401858225": {
+      "date": "Thu, Sep 17",
+      "away": "Syracuse",
+      "home": "Pittsburgh",
+      "actual_margin": 14,
+      "hfa_used": 2.6,
+      "hfa_is_real": false,
+      "factors": {
+        "fpi": 12.891,
+        "efficiency": 7.067999999999999,
+        "scoring": 14.950000000000001,
+        "yardage": 3.6000000000000014,
+        "turnovers": 10.8
+      }
+    },
+    "401858226": {
+      "date": "Fri, Sep 18",
+      "away": "Miami",
+      "home": "Wake Forest",
+      "actual_margin": -13,
+      "hfa_used": -0.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 13.67,
+        "efficiency": 8.155799999999997,
+        "scoring": -15.049999999999997,
+        "yardage": -0.3999999999999986,
+        "turnovers": -2.8
+      }
+    },
+    "401856811": {
+      "date": "Sat, Sep 19",
+      "away": "Houston",
+      "home": "Texas Tech",
+      "actual_margin": 2,
+      "hfa_used": 0.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 5.518000000000001,
+        "efficiency": -2.1189000000000004,
+        "scoring": 3.799999999999997,
+        "yardage": -3.6000000000000014,
+        "turnovers": -2.8
+      }
+    },
+    "401856693": {
+      "date": "Sun, Sep 20",
+      "away": "UTSA",
+      "home": "Texas",
+      "actual_margin": 24,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 27.088,
+        "efficiency": 12.7227,
+        "scoring": 10.850000000000001,
+        "yardage": -8.400000000000002,
+        "turnovers": -4.0
+      }
+    },
+    "401856686": {
+      "date": "Sat, Sep 19",
+      "away": "Georgia",
+      "home": "Arkansas",
+      "actual_margin": -28,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -26.136,
+        "efficiency": -24.957600000000003,
+        "scoring": -23.15,
+        "yardage": -0.40000000000000036,
+        "turnovers": -6.8
+      }
+    },
+    "401858453": {
+      "date": "Sat, Sep 19",
+      "away": "Michigan State",
+      "home": "Notre Dame",
+      "actual_margin": 17,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 24.224,
+        "efficiency": 20.987699999999997,
+        "scoring": 16.65,
+        "yardage": -1.7763568394002505e-15,
+        "turnovers": 12.0
+      }
+    },
+    "401858449": {
+      "date": "Sat, Sep 19",
+      "away": "Western Kentucky",
+      "home": "Indiana",
+      "actual_margin": 38,
+      "hfa_used": 2.6,
+      "hfa_is_real": false,
+      "factors": {
+        "fpi": 37.196,
+        "efficiency": 30.760799999999996,
+        "scoring": 33.85,
+        "yardage": 2.0,
+        "turnovers": 8.0
+      }
+    },
+    "401858454": {
+      "date": "Sat, Sep 19",
+      "away": "Kent State",
+      "home": "Ohio State",
+      "actual_margin": 56,
+      "hfa_used": -1.6,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 49.405,
+        "efficiency": 34.160999999999994,
+        "scoring": 33.0,
+        "yardage": 2.4000000000000004,
+        "turnovers": 3.2
+      }
+    },
+    "401856688": {
+      "date": "Sat, Sep 19",
+      "away": "Louisiana State",
+      "home": "Mississippi",
+      "actual_margin": 8,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -7.703999999999999,
+        "efficiency": -7.062900000000002,
+        "scoring": -9.299999999999997,
+        "yardage": 9.200000000000001,
+        "turnovers": -4.0
+      }
+    },
+    "401856694": {
+      "date": "Sat, Sep 19",
+      "away": "Kentucky",
+      "home": "Texas A&M",
+      "actual_margin": -10,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 5.640000000000001,
+        "efficiency": -7.013399999999998,
+        "scoring": 3.8999999999999986,
+        "yardage": -2.0,
+        "turnovers": -2.0
+      }
+    },
+    "401856685": {
+      "date": "Sat, Sep 19",
+      "away": "Florida State",
+      "home": "Alabama",
+      "actual_margin": 14,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 18.05,
+        "efficiency": 19.7652,
+        "scoring": 13.849999999999998,
+        "yardage": -4.800000000000001,
+        "turnovers": 5.2
+      }
+    },
+    "401856795": {
+      "date": "Sun, Sep 20",
+      "away": "BYU",
+      "home": "Colorado State",
+      "actual_margin": -18,
+      "hfa_used": 11.1,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -21.527,
+        "efficiency": -16.3227,
+        "scoring": -8.950000000000003,
+        "yardage": 1.2000000000000028,
+        "turnovers": 5.2
+      }
+    },
+    "401858457": {
+      "date": "Sat, Sep 19",
+      "away": "USC",
+      "home": "Rutgers",
+      "actual_margin": -7,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -18.445,
+        "efficiency": -9.8529,
+        "scoring": -11.700000000000003,
+        "yardage": -1.5999999999999979,
+        "turnovers": -8.399999999999999
+      }
+    },
+    "401858456": {
+      "date": "Sat, Sep 19",
+      "away": "Buffalo",
+      "home": "Penn State",
+      "actual_margin": 42,
+      "hfa_used": 5.1,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 34.265,
+        "efficiency": 31.6005,
+        "scoring": 26.4,
+        "yardage": -4.400000000000002,
+        "turnovers": 15.2
+      }
+    },
+    "401856692": {
+      "date": "Sat, Sep 19",
+      "away": "Kennesaw State",
+      "home": "Tennessee",
+      "actual_margin": 33,
+      "hfa_used": 0.3,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 29.372,
+        "efficiency": 21.7593,
+        "scoring": 16.85,
+        "yardage": -8.0,
+        "turnovers": 4.0
+      }
+    },
+    "401858230": {
+      "date": "Sat, Sep 19",
+      "away": "SMU",
+      "home": "Louisville",
+      "actual_margin": 10,
+      "hfa_used": -1.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 1.705,
+        "efficiency": -0.29219999999999896,
+        "scoring": 0.14999999999999858,
+        "yardage": 0.7999999999999972,
+        "turnovers": 16.0
+      }
+    },
+    "401856801": {
+      "date": "Sat, Sep 19",
+      "away": "Utah State",
+      "home": "Utah",
+      "actual_margin": 33,
+      "hfa_used": 6.9,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 25.128,
+        "efficiency": 23.9697,
+        "scoring": 17.35,
+        "yardage": 1.1999999999999993,
+        "turnovers": 8.0
+      }
+    },
+    "401858450": {
+      "date": "Sat, Sep 19",
+      "away": "UTEP",
+      "home": "Michigan",
+      "actual_margin": 35,
+      "hfa_used": 2.6,
+      "hfa_is_real": false,
+      "factors": {
+        "fpi": 33.699,
+        "efficiency": 22.957800000000002,
+        "scoring": 23.9,
+        "yardage": -2.400000000000004,
+        "turnovers": -4.4
+      }
+    },
+    "401856689": {
+      "date": "Sat, Sep 19",
+      "away": "Troy",
+      "home": "Missouri",
+      "actual_margin": 10,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 18.195999999999998,
+        "efficiency": 10.0215,
+        "scoring": 6.350000000000001,
+        "yardage": 0.3999999999999986,
+        "turnovers": 9.6
+      }
+    },
+    "401856690": {
+      "date": "Sat, Sep 19",
+      "away": "New Mexico",
+      "home": "Oklahoma",
+      "actual_margin": 8,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 9.111,
+        "efficiency": -1.410900000000001,
+        "scoring": -4.850000000000001,
+        "yardage": -2.400000000000002,
+        "turnovers": -18.0
+      }
+    },
+    "401856802": {
+      "date": "Sat, Sep 19",
+      "away": "West Virginia",
+      "home": "Virginia",
+      "actual_margin": -11,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 9.283,
+        "efficiency": 8.492399999999998,
+        "scoring": 8.850000000000001,
+        "yardage": -9.199999999999996,
+        "turnovers": 2.8
+      }
+    },
+    "401869940": {
+      "date": "Sat, Sep 19",
+      "away": "Coastal Carolina",
+      "home": "Delaware",
+      "actual_margin": 8,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 2.8209999999999997,
+        "efficiency": 2.271299999999999,
+        "scoring": -1.3000000000000007,
+        "yardage": -6.0000000000000036,
+        "turnovers": 4.0
+      }
+    },
+    "401856798": {
+      "date": "Sat, Sep 19",
+      "away": "Bowling Green",
+      "home": "Iowa State",
+      "actual_margin": 48,
+      "hfa_used": -3.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 25.399,
+        "efficiency": 22.7835,
+        "scoring": 22.65,
+        "yardage": 2.799999999999999,
+        "turnovers": -1.2
+      }
+    },
+    "401856812": {
+      "date": "Sat, Sep 19",
+      "away": "Arizona State",
+      "home": "Kansas",
+      "actual_margin": -7,
+      "hfa_used": 3.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -3.487,
+        "efficiency": -8.149200000000002,
+        "scoring": -0.75,
+        "yardage": 0.7999999999999972,
+        "turnovers": -10.0
+      }
+    },
+    "401858229": {
+      "date": "Sat, Sep 19",
+      "away": "North Carolina",
+      "home": "Clemson",
+      "actual_margin": 8,
+      "hfa_used": 5.8,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 2.1110000000000007,
+        "efficiency": -7.871999999999998,
+        "scoring": 0.25,
+        "yardage": -0.3999999999999986,
+        "turnovers": 0.8
+      }
+    },
+    "401858451": {
+      "date": "Sat, Sep 19",
+      "away": "Akron",
+      "home": "Minnesota",
+      "actual_margin": 34,
+      "hfa_used": -3.7,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 21.89,
+        "efficiency": 16.667399999999997,
+        "scoring": 16.0,
+        "yardage": -5.200000000000003,
+        "turnovers": 10.8
+      }
+    },
+    "401858460": {
+      "date": "Sat, Sep 19",
+      "away": "Eastern Michigan",
+      "home": "Wisconsin",
+      "actual_margin": 44,
+      "hfa_used": 1.9,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 26.058,
+        "efficiency": 19.170599999999997,
+        "scoring": 11.699999999999996,
+        "yardage": -0.8000000000000007,
+        "turnovers": -2.8
+      }
+    },
+    "401856695": {
+      "date": "Sat, Sep 19",
+      "away": "North Carolina State",
+      "home": "Vanderbilt",
+      "actual_margin": 4,
+      "hfa_used": -7.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 2.7919999999999994,
+        "efficiency": -5.601600000000001,
+        "scoring": 4.449999999999996,
+        "yardage": -5.200000000000003,
+        "turnovers": 2.8
+      }
+    },
+    "401864508": {
+      "date": "Sat, Sep 19",
+      "away": "Wyoming",
+      "home": "Central Michigan",
+      "actual_margin": 14,
+      "hfa_used": 8.1,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -0.2940000000000005,
+        "efficiency": 1.2746999999999986,
+        "scoring": -7.850000000000001,
+        "yardage": -2.799999999999999,
+        "turnovers": 4.0
+      }
+    },
+    "401862774": {
+      "date": "Sat, Sep 19",
+      "away": "Temple",
+      "home": "Toledo",
+      "actual_margin": 1,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 6.0360000000000005,
+        "efficiency": 7.503599999999998,
+        "scoring": 6.5,
+        "yardage": -4.0,
+        "turnovers": 2.4
+      }
+    },
+    "401856797": {
+      "date": "Sat, Sep 19",
+      "away": "Miami",
+      "home": "Cincinnati",
+      "actual_margin": 4,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 14.736,
+        "efficiency": 6.542999999999998,
+        "scoring": -12.149999999999999,
+        "yardage": 2.0,
+        "turnovers": 1.2000000000000002
+      }
+    },
+    "401858231": {
+      "date": "Sat, Sep 19",
+      "away": "Stanford",
+      "home": "Duke",
+      "actual_margin": 28,
+      "hfa_used": 4.8,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 16.625999999999998,
+        "efficiency": 17.1009,
+        "scoring": 13.950000000000003,
+        "yardage": -4.0000000000000036,
+        "turnovers": -4.0
+      }
+    },
+    "401866422": {
+      "date": "Sat, Sep 19",
+      "away": "Ball State",
+      "home": "Liberty",
+      "actual_margin": 36,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 21.129,
+        "efficiency": 15.3081,
+        "scoring": 24.7,
+        "yardage": 1.200000000000001,
+        "turnovers": 1.2
+      }
+    },
+    "401867804": {
+      "date": "Sat, Sep 19",
+      "away": "Louisiana Tech",
+      "home": "Baylor",
+      "actual_margin": 17,
+      "hfa_used": 0.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 14.459,
+        "efficiency": 0.25739999999999696,
+        "scoring": 16.35,
+        "yardage": -0.40000000000000213,
+        "turnovers": -0.8
+      }
+    },
+    "401856691": {
+      "date": "Sat, Sep 19",
+      "away": "Mississippi State",
+      "home": "South Carolina",
+      "actual_margin": -7,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -4.4079999999999995,
+        "efficiency": -14.282100000000002,
+        "scoring": -7.850000000000001,
+        "yardage": 2.400000000000002,
+        "turnovers": -1.5999999999999999
+      }
+    },
+    "401862710": {
+      "date": "Sat, Sep 19",
+      "away": "East Carolina",
+      "home": "Old Dominion",
+      "actual_margin": -3,
+      "hfa_used": -2.7,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -5.865,
+        "efficiency": -5.8157999999999985,
+        "scoring": -2.3500000000000014,
+        "yardage": -4.0,
+        "turnovers": -2.8
+      }
+    },
+    "401871047": {
+      "date": "Sat, Sep 19",
+      "away": "Marshall",
+      "home": "Missouri State",
+      "actual_margin": -6,
+      "hfa_used": 3.6,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 0.8559999999999999,
+        "efficiency": 5.301899999999999,
+        "scoring": -4.799999999999997,
+        "yardage": -0.8000000000000043,
+        "turnovers": 1.5999999999999999
+      }
+    },
+    "401856687": {
+      "date": "Sat, Sep 19",
+      "away": "Florida",
+      "home": "Auburn",
+      "actual_margin": -5,
+      "hfa_used": 7.7,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -6.211,
+        "efficiency": -5.882400000000001,
+        "scoring": -7.75,
+        "yardage": -10.0,
+        "turnovers": -5.2
+      }
+    },
+    "401861963": {
+      "date": "Sat, Sep 19",
+      "away": "UConn",
+      "home": "Southern Mississippi",
+      "actual_margin": -28,
+      "hfa_used": 0.6,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -4.602999999999999,
+        "efficiency": -7.321200000000001,
+        "scoring": -11.2,
+        "yardage": -0.3999999999999986,
+        "turnovers": -2.8
+      }
+    },
+    "401856796": {
+      "date": "Sat, Sep 19",
+      "away": "Colorado",
+      "home": "Northwestern",
+      "actual_margin": 34,
+      "hfa_used": -7.9,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 11.873000000000001,
+        "efficiency": 13.6047,
+        "scoring": 14.200000000000001,
+        "yardage": 8.8,
+        "turnovers": 8.8
+      }
+    },
+    "401858232": {
+      "date": "Sat, Sep 19",
+      "away": "Virginia Tech",
+      "home": "Maryland",
+      "actual_margin": -9,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -10.575,
+        "efficiency": -8.962200000000003,
+        "scoring": -12.499999999999996,
+        "yardage": 2.0,
+        "turnovers": -2.8
+      }
+    },
+    "401856799": {
+      "date": "Sun, Sep 20",
+      "away": "Arkansas State",
+      "home": "TCU",
+      "actual_margin": 24,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 16.153,
+        "efficiency": 8.522699999999999,
+        "scoring": 8.35,
+        "yardage": -10.0,
+        "turnovers": -1.5999999999999999
+      }
+    },
+    "401862776": {
+      "date": "Sun, Sep 20",
+      "away": "UAB",
+      "home": "Louisiana",
+      "actual_margin": 7,
+      "hfa_used": -6.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 10.294,
+        "efficiency": 13.459500000000002,
+        "scoring": 4.5,
+        "yardage": -1.1999999999999993,
+        "turnovers": 4.0
+      }
+    },
+    "401864574": {
+      "date": "Sun, Sep 20",
+      "away": "Charlotte",
+      "home": "Appalachian State",
+      "actual_margin": 5,
+      "hfa_used": 3.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 12.994000000000002,
+        "efficiency": 18.3693,
+        "scoring": 10.350000000000001,
+        "yardage": 5.600000000000001,
+        "turnovers": 8.0
+      }
+    },
+    "401860887": {
+      "date": "Sun, Sep 20",
+      "away": "James Madison",
+      "home": "San Diego State",
+      "actual_margin": -13,
+      "hfa_used": 7.9,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -11.475999999999999,
+        "efficiency": -13.6797,
+        "scoring": -17.049999999999997,
+        "yardage": 1.5999999999999979,
+        "turnovers": -6.8
+      }
+    },
+    "401864507": {
+      "date": "Sun, Sep 20",
+      "away": "North Dakota State",
+      "home": "Sacramento State",
+      "actual_margin": -21,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -27.266,
+        "efficiency": -26.9427,
+        "scoring": -22.25,
+        "yardage": 0.3999999999999986,
+        "turnovers": -12.0
+      }
+    },
+    "401858458": {
+      "date": "Sun, Sep 20",
+      "away": "Purdue",
+      "home": "UCLA",
+      "actual_margin": 14,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 13.485,
+        "efficiency": 17.9736,
+        "scoring": 22.15,
+        "yardage": -3.1999999999999993,
+        "turnovers": 12.0
+      }
+    },
+    "401860888": {
+      "date": "Sun, Sep 20",
+      "away": "Fresno State",
+      "home": "San Jose State",
+      "actual_margin": -16,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -12.349,
+        "efficiency": -6.975000000000002,
+        "scoring": -9.0,
+        "yardage": -4.400000000000002,
+        "turnovers": -12.4
+      }
+    },
+    "401869941": {
+      "date": "Thu, Sep 24",
+      "away": "Liberty",
+      "home": "Coastal Carolina",
+      "actual_margin": -17,
+      "hfa_used": -0.5,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -9.624,
+        "efficiency": -6.1131,
+        "scoring": -13.05,
+        "yardage": 2.0,
+        "turnovers": -4.0
+      }
+    },
+    "401858461": {
+      "date": "Sat, Sep 26",
+      "away": "Northwestern",
+      "home": "Indiana",
+      "actual_margin": 6,
+      "hfa_used": 2.6,
+      "hfa_is_real": false,
+      "factors": {
+        "fpi": 13.171999999999999,
+        "efficiency": 3.5606999999999998,
+        "scoring": 6.350000000000001,
+        "yardage": 0.8000000000000007,
+        "turnovers": -3.2
+      }
+    },
+    "401862779": {
+      "date": "Fri, Sep 25",
+      "away": "Army",
+      "home": "Temple",
+      "actual_margin": -4,
+      "hfa_used": -4.6,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -2.8340000000000005,
+        "efficiency": -0.9812999999999981,
+        "scoring": -3.799999999999997,
+        "yardage": -1.1999999999999993,
+        "turnovers": 0.8
+      }
+    },
+    "401862778": {
+      "date": "Fri, Sep 25",
+      "away": "Navy",
+      "home": "UAB",
+      "actual_margin": 4,
+      "hfa_used": -1.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -6.258,
+        "efficiency": 2.487599999999999,
+        "scoring": 1.0,
+        "yardage": -3.6000000000000014,
+        "turnovers": 6.0
+      }
+    },
+    "401858234": {
+      "date": "Sat, Sep 26",
+      "away": "Clemson",
+      "home": "California",
+      "actual_margin": -14,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -9.522,
+        "efficiency": -1.0950000000000017,
+        "scoring": -4.850000000000001,
+        "yardage": 0.8000000000000007,
+        "turnovers": 2.4
+      }
+    },
+    "401856704": {
+      "date": "Sat, Sep 26",
+      "away": "Texas",
+      "home": "Tennessee",
+      "actual_margin": -3,
+      "hfa_used": 0.3,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -8.699000000000002,
+        "efficiency": -2.6876999999999964,
+        "scoring": -1.5,
+        "yardage": 1.6000000000000014,
+        "turnovers": 5.2
+      }
+    },
+    "401858467": {
+      "date": "Sat, Sep 26",
+      "away": "Notre Dame",
+      "home": "Purdue",
+      "actual_margin": -39,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -30.954,
+        "efficiency": -26.788499999999996,
+        "scoring": -26.15,
+        "yardage": 10.000000000000002,
+        "turnovers": -12.0
+      }
+    },
+    "401858465": {
+      "date": "Sat, Sep 26",
+      "away": "Illinois",
+      "home": "Ohio State",
+      "actual_margin": 23,
+      "hfa_used": -1.6,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 21.046,
+        "efficiency": 14.411099999999994,
+        "scoring": 17.7,
+        "yardage": -4.400000000000002,
+        "turnovers": 2.0
+      }
+    },
+    "401856805": {
+      "date": "Sat, Sep 26",
+      "away": "Sam Houston State",
+      "home": "Texas Tech",
+      "actual_margin": 35,
+      "hfa_used": 0.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 28.901,
+        "efficiency": 8.521499999999998,
+        "scoring": 15.349999999999998,
+        "yardage": 5.199999999999999,
+        "turnovers": -1.5999999999999999
+      }
+    },
+    "401858243": {
+      "date": "Sat, Sep 26",
+      "away": "Wake Forest",
+      "home": "Louisville",
+      "actual_margin": -3,
+      "hfa_used": -1.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 4.809,
+        "efficiency": 2.5098,
+        "scoring": -1.1000000000000014,
+        "yardage": 3.599999999999998,
+        "turnovers": 6.8
+      }
+    },
+    "401856813": {
+      "date": "Sat, Sep 26",
+      "away": "Colorado",
+      "home": "Baylor",
+      "actual_margin": 10,
+      "hfa_used": 0.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 8.344999999999999,
+        "efficiency": 3.6101999999999994,
+        "scoring": 11.55,
+        "yardage": -1.1999999999999993,
+        "turnovers": 4.0
+      }
+    },
+    "401858242": {
+      "date": "Sat, Sep 26",
+      "away": "Virginia Tech",
+      "home": "Boston College",
+      "actual_margin": -7,
+      "hfa_used": 6.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -13.692,
+        "efficiency": -13.072200000000004,
+        "scoring": -9.649999999999999,
+        "yardage": 0.40000000000000213,
+        "turnovers": 0.0
+      }
+    },
+    "401860893": {
+      "date": "Sat, Sep 26",
+      "away": "San Diego State",
+      "home": "Toledo",
+      "actual_margin": 25,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 6.455,
+        "efficiency": 12.6822,
+        "scoring": 12.050000000000004,
+        "yardage": 6.0,
+        "turnovers": 5.2
+      }
+    },
+    "401860896": {
+      "date": "Sat, Sep 26",
+      "away": "Colorado State",
+      "home": "UTSA",
+      "actual_margin": 14,
+      "hfa_used": -2.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 6.431,
+        "efficiency": 5.5971,
+        "scoring": 0.8500000000000014,
+        "yardage": -7.600000000000001,
+        "turnovers": -1.2000000000000002
+      }
+    },
+    "401864512": {
+      "date": "Sat, Sep 26",
+      "away": "UNLV",
+      "home": "Akron",
+      "actual_margin": -28,
+      "hfa_used": 3.8,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -17.202,
+        "efficiency": -11.9463,
+        "scoring": -13.850000000000001,
+        "yardage": 2.3999999999999986,
+        "turnovers": -8.0
+      }
+    },
+    "401866425": {
+      "date": "Sat, Sep 26",
+      "away": "Ball State",
+      "home": "Kent State",
+      "actual_margin": 13,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 1.6799999999999997,
+        "efficiency": 2.833799999999999,
+        "scoring": 0.3500000000000014,
+        "yardage": 0.7999999999999972,
+        "turnovers": 0.0
+      }
+    },
+    "401858462": {
+      "date": "Sat, Sep 26",
+      "away": "UCLA",
+      "home": "Maryland",
+      "actual_margin": -51,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -12.043,
+        "efficiency": -14.522400000000001,
+        "scoring": -18.999999999999996,
+        "yardage": -3.6000000000000014,
+        "turnovers": -10.8
+      }
+    },
+    "401856700": {
+      "date": "Sat, Sep 26",
+      "away": "Oklahoma",
+      "home": "Georgia",
+      "actual_margin": 28,
+      "hfa_used": 5.1,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 14.437,
+        "efficiency": 15.200100000000003,
+        "scoring": 14.649999999999999,
+        "yardage": 7.6,
+        "turnovers": 14.0
+      }
+    },
+    "401856699": {
+      "date": "Sat, Sep 26",
+      "away": "Mississippi",
+      "home": "Florida",
+      "actual_margin": 24,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 4.840999999999999,
+        "efficiency": 4.462800000000001,
+        "scoring": 10.0,
+        "yardage": 1.5999999999999979,
+        "turnovers": 9.2
+      }
+    },
+    "401858466": {
+      "date": "Sat, Sep 26",
+      "away": "Wisconsin",
+      "home": "Penn State",
+      "actual_margin": -4,
+      "hfa_used": 5.1,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 8.276,
+        "efficiency": 4.9527000000000045,
+        "scoring": 9.350000000000001,
+        "yardage": 0.7999999999999989,
+        "turnovers": 10.0
+      }
+    },
+    "401856816": {
+      "date": "Sat, Sep 26",
+      "away": "Utah",
+      "home": "Iowa State",
+      "actual_margin": -14,
+      "hfa_used": -3.4,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -14.179000000000002,
+        "efficiency": -11.460899999999999,
+        "scoring": -8.200000000000003,
+        "yardage": 0.7999999999999972,
+        "turnovers": -5.2
+      }
+    },
+    "401858463": {
+      "date": "Sat, Sep 26",
+      "away": "Iowa",
+      "home": "Michigan",
+      "actual_margin": -1,
+      "hfa_used": 2.6,
+      "hfa_is_real": false,
+      "factors": {
+        "fpi": 0.5210000000000008,
+        "efficiency": -3.377700000000002,
+        "scoring": -2.0500000000000007,
+        "yardage": -1.600000000000005,
+        "turnovers": -6.0
+      }
+    },
+    "401864510": {
+      "date": "Sat, Sep 26",
+      "away": "Hawai'i",
+      "home": "Wyoming",
+      "actual_margin": 17,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -4.969000000000001,
+        "efficiency": -2.6586000000000003,
+        "scoring": 0.8500000000000014,
+        "yardage": 2.0,
+        "turnovers": -8.0
+      }
+    },
+    "401856815": {
+      "date": "Sat, Sep 26",
+      "away": "TCU",
+      "home": "UCF",
+      "actual_margin": 8,
+      "hfa_used": 4.5,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 0.2140000000000004,
+        "efficiency": 3.0576,
+        "scoring": 1.0,
+        "yardage": 0.0,
+        "turnovers": 8.0
+      }
+    },
+    "401861970": {
+      "date": "Sat, Sep 26",
+      "away": "UConn",
+      "home": "Miami",
+      "actual_margin": 3,
+      "hfa_used": 8.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -0.5099999999999998,
+        "efficiency": 0.7623000000000012,
+        "scoring": 16.599999999999998,
+        "yardage": 1.5999999999999979,
+        "turnovers": 2.8
+      }
+    },
+    "401856698": {
+      "date": "Sat, Sep 26",
+      "away": "Vanderbilt",
+      "home": "Auburn",
+      "actual_margin": 6,
+      "hfa_used": 7.7,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 7.503,
+        "efficiency": 7.433700000000001,
+        "scoring": 3.4499999999999993,
+        "yardage": 0.0,
+        "turnovers": 0.0
+      }
+    },
+    "401858464": {
+      "date": "Sat, Sep 26",
+      "away": "Nebraska",
+      "home": "Michigan State",
+      "actual_margin": -18,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -12.354,
+        "efficiency": -14.625599999999999,
+        "scoring": -15.449999999999996,
+        "yardage": -3.1999999999999993,
+        "turnovers": -10.8
+      }
+    },
+    "401858239": {
+      "date": "Sat, Sep 26",
+      "away": "Delaware",
+      "home": "Virginia",
+      "actual_margin": 39,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 20.750999999999998,
+        "efficiency": 17.1114,
+        "scoring": 15.649999999999999,
+        "yardage": -0.7999999999999972,
+        "turnovers": 4.0
+      }
+    },
+    "401858238": {
+      "date": "Sat, Sep 26",
+      "away": "Central Michigan",
+      "home": "Miami",
+      "actual_margin": 49,
+      "hfa_used": 8.2,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 8.724,
+        "efficiency": 13.034400000000002,
+        "scoring": 27.799999999999997,
+        "yardage": 5.1999999999999975,
+        "turnovers": 6.8
+      }
+    },
+    "401856696": {
+      "date": "Sat, Sep 26",
+      "away": "South Carolina",
+      "home": "Alabama",
+      "actual_margin": 31,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 14.793000000000001,
+        "efficiency": 17.916300000000003,
+        "scoring": 10.700000000000003,
+        "yardage": -3.1999999999999993,
+        "turnovers": 8.0
+      }
+    },
+    "401856702": {
+      "date": "Sat, Sep 26",
+      "away": "Texas A&M",
+      "home": "Louisiana State",
+      "actual_margin": 29,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 7.027999999999999,
+        "efficiency": 12.548100000000002,
+        "scoring": 6.75,
+        "yardage": -2.4000000000000004,
+        "turnovers": -2.0
+      }
+    },
+    "401858469": {
+      "date": "Sat, Sep 26",
+      "away": "Oregon",
+      "home": "USC",
+      "actual_margin": -14,
+      "hfa_used": 10.5,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -6.936999999999999,
+        "efficiency": -8.3934,
+        "scoring": 4.550000000000001,
+        "yardage": 2.400000000000002,
+        "turnovers": -2.0
+      }
+    },
+    "401856703": {
+      "date": "Sat, Sep 26",
+      "away": "Missouri",
+      "home": "Mississippi State",
+      "actual_margin": 7,
+      "hfa_used": -7.3,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 4.652999999999999,
+        "efficiency": 11.7495,
+        "scoring": 7.649999999999999,
+        "yardage": 7.199999999999999,
+        "turnovers": -8.0
+      }
+    },
+    "401858241": {
+      "date": "Sun, Sep 27",
+      "away": "Missouri State",
+      "home": "SMU",
+      "actual_margin": 10,
+      "hfa_used": -2.3,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 21.311999999999998,
+        "efficiency": 18.1728,
+        "scoring": 11.5,
+        "yardage": 4.0000000000000036,
+        "turnovers": -7.999999999999999
+      }
+    },
+    "401869961": {
+      "date": "Sat, Sep 26",
+      "away": "James Madison",
+      "home": "Old Dominion",
+      "actual_margin": -26,
+      "hfa_used": -2.7,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -15.876000000000001,
+        "efficiency": -16.7598,
+        "scoring": -16.400000000000002,
+        "yardage": -4.0000000000000036,
+        "turnovers": -6.8
+      }
+    },
+    "401862780": {
+      "date": "Sat, Sep 26",
+      "away": "Louisiana",
+      "home": "Charlotte",
+      "actual_margin": -27,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -15.522000000000002,
+        "efficiency": -20.1354,
+        "scoring": -13.2,
+        "yardage": 0.3999999999999986,
+        "turnovers": -8.0
+      }
+    },
+    "401862784": {
+      "date": "Sat, Sep 26",
+      "away": "Southern Mississippi",
+      "home": "Tulane",
+      "actual_margin": 3,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 9.59,
+        "efficiency": 4.8431999999999995,
+        "scoring": 8.749999999999996,
+        "yardage": 1.1999999999999993,
+        "turnovers": 1.5999999999999999
+      }
+    },
+    "401869931": {
+      "date": "Sat, Sep 26",
+      "away": "Kennesaw State",
+      "home": "Arkansas State",
+      "actual_margin": 3,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 1.266,
+        "efficiency": 2.517,
+        "scoring": 1.8500000000000014,
+        "yardage": 4.399999999999999,
+        "turnovers": -2.4
+      }
+    },
+    "401860894": {
+      "date": "Sat, Sep 26",
+      "away": "Troy",
+      "home": "Utah State",
+      "actual_margin": 11,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 1.629999999999999,
+        "efficiency": -1.0419000000000007,
+        "scoring": -1.0,
+        "yardage": 0.0,
+        "turnovers": -1.2000000000000002
+      }
+    },
+    "401864572": {
+      "date": "Sat, Sep 26",
+      "away": "Appalachian State",
+      "home": "North Carolina State",
+      "actual_margin": 10,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 8.315,
+        "efficiency": 5.0679,
+        "scoring": -2.9499999999999993,
+        "yardage": 2.0,
+        "turnovers": -6.8
+      }
+    },
+    "401856697": {
+      "date": "Sun, Sep 27",
+      "away": "Tulsa",
+      "home": "Arkansas",
+      "actual_margin": 28,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 7.0440000000000005,
+        "efficiency": -3.0257999999999994,
+        "scoring": -4.199999999999999,
+        "yardage": 3.1999999999999993,
+        "turnovers": -4.0
+      }
+    },
+    "401862782": {
+      "date": "Sun, Sep 27",
+      "away": "Florida Atlantic",
+      "home": "UL Monroe",
+      "actual_margin": -28,
+      "hfa_used": -8.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -16.326,
+        "efficiency": -11.3679,
+        "scoring": -13.399999999999999,
+        "yardage": 0.8000000000000007,
+        "turnovers": -2.0
+      }
+    },
+    "401860895": {
+      "date": "Sun, Sep 27",
+      "away": "Oregon State",
+      "home": "UTEP",
+      "actual_margin": -26,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -20.326999999999998,
+        "efficiency": -24.788999999999998,
+        "scoring": -19.0,
+        "yardage": -5.200000000000001,
+        "turnovers": -1.5999999999999999
+      }
+    },
+    "401860891": {
+      "date": "Sun, Sep 27",
+      "away": "Rice",
+      "home": "Fresno State",
+      "actual_margin": 14,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 13.07,
+        "efficiency": 8.463600000000001,
+        "scoring": 16.799999999999997,
+        "yardage": 0.40000000000000213,
+        "turnovers": 14.0
+      }
+    },
+    "401858240": {
+      "date": "Sun, Sep 27",
+      "away": "Georgia Tech",
+      "home": "Stanford",
+      "actual_margin": 7,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -5.731,
+        "efficiency": -3.9236999999999957,
+        "scoring": -1.3999999999999986,
+        "yardage": 2.8000000000000007,
+        "turnovers": 12.0
+      }
+    },
+    "401864509": {
+      "date": "Sun, Sep 27",
+      "away": "Air Force",
+      "home": "Nevada",
+      "actual_margin": -3,
+      "hfa_used": 12.0,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": -3.135,
+        "efficiency": -4.256099999999999,
+        "scoring": 4.899999999999999,
+        "yardage": -1.5999999999999979,
+        "turnovers": 0.8
+      }
+    },
+    "401858470": {
+      "date": "Sun, Sep 27",
+      "away": "Minnesota",
+      "home": "Washington",
+      "actual_margin": -3,
+      "hfa_used": 2.6,
+      "hfa_is_real": false,
+      "factors": {
+        "fpi": 2.566,
+        "efficiency": -3.056999999999999,
+        "scoring": 0.14999999999999858,
+        "yardage": -2.8000000000000007,
+        "turnovers": 2.8
+      }
+    },
+    "401871090": {
+      "date": "Wed, Oct 7",
+      "away": "Southern Mississippi",
+      "home": "Troy",
+      "actual_margin": 21,
+      "hfa_used": -2.7,
+      "hfa_is_real": true,
+      "factors": {
+        "fpi": 7.785,
+        "efficiency": 7.0845,
+        "scoring": 11.2,
+        "yardage": -2.0000000000000036,
+        "turnovers": 6.4
+      }
+    }
+  }
+}
